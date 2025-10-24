@@ -3,7 +3,7 @@
 label-studio start --host 127.0.0.1 --port 8080
 ```
 
-http://127.0.0.1:8080 or http://localhost:8080でアクセス可能。
+http://127.0.0.1:8080 or http://localhost:8080
 
 
 ## Google Colabo上でUltralyticsのYoloを構築。
@@ -36,4 +36,5 @@ model.train(
     batch=8
 )
 ```
+
 
